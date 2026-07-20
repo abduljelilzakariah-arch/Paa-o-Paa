@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rev-001",
+    "artisanId": "art-001",
+    "userId": "usr-001",
+    "userName": "Ama Osei",
+    "rating": 5,
+    "comment": "Kwame did an excellent job rewiring our home in Tema. Professional, punctual, and very knowledgeable. Highly recommend!",
+    "createdAt": "2024-10-20T08:00:00Z",
+    "flagged": false
+  },
+  {
+    "id": "rev-002",
+    "artisanId": "art-001",
+    "userId": "usr-001",
+    "userName": "Kojo Anane",
+    "rating": 4,
+    "comment": "Good work on our office electrical setup. Minor delay but quality was top-notch.",
+    "createdAt": "2024-09-15T12:00:00Z",
+    "flagged": false
+  },
+  {
+    "id": "rev-003",
+    "artisanId": "art-002",
+    "userId": "usr-001",
+    "userName": "Ama Osei",
+    "rating": 5,
+    "comment": "Abena made the most beautiful kente-inspired dress for my wedding. True artistry!",
+    "createdAt": "2024-11-01T16:00:00Z",
+    "flagged": false
+  },
+  {
+    "id": "rev-004",
+    "artisanId": "art-003",
+    "userId": "usr-001",
+    "userName": "Efua Mensah",
+    "rating": 4,
+    "comment": "Fixed our leaking pipes quickly. Fair pricing and honest service.",
+    "createdAt": "2024-08-22T10:30:00Z",
+    "flagged": false
+  }
+]

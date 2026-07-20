@@ -1,0 +1,48 @@
+[
+  {
+    "id": "usr-001",
+    "email": "user@demo.com",
+    "phone": "+233241234567",
+    "password": "demo123",
+    "role": "user",
+    "name": "Ama Osei",
+    "region": "Greater Accra",
+    "town": "Accra",
+    "profilePhoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
+    "verified": true
+  },
+  {
+    "id": "usr-002",
+    "email": "artisan@demo.com",
+    "phone": "+233209876543",
+    "password": "demo123",
+    "role": "artisan",
+    "name": "Kwame Mensah",
+    "region": "Greater Accra",
+    "town": "Tema",
+    "profilePhoto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",
+    "verified": true
+  },
+  {
+    "id": "usr-003",
+    "email": "business@demo.com",
+    "phone": "+233551234567",
+    "password": "demo123",
+    "role": "business",
+    "name": "Golden Craft Ltd",
+    "region": "Ashanti",
+    "town": "Kumasi",
+    "verified": true
+  },
+  {
+    "id": "usr-004",
+    "email": "admin@demo.com",
+    "phone": "+233501112233",
+    "password": "demo123",
+    "role": "admin",
+    "name": "Platform Admin",
+    "region": "Greater Accra",
+    "town": "Accra",
+    "verified": true
+  }
+]

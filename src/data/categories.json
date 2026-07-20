@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cat-plumbing",
+    "name": "Plumbing",
+    "slug": "plumbing",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuD2yElSGGYaYtBVLKQLARLvUGATOtJli5dKC68s1j4NVmfJGV88O-VaYRgiRcCqtP6TTbh7nK5Aq5Salj6-gpGnt5dOr5U3Z6i_2sb6CwPkmpfju0eOS3NrpzKhsDMMLl0NLumsC3lyzM6gjJ88T9haBN3ZDfvKWN1yiqIwSJqRkKN5B_NVqpGNp31lnnTFnK3CY-rn-WI3_1OjVu5cdUUqDS2VOEBvtr2rWbzyFXucgrpvfnbvZ1D026Z78T0CNiBFaWLlIL65N5U"
+  },
+  {
+    "id": "cat-tailoring",
+    "name": "Tailoring",
+    "slug": "tailoring",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRo5hdlOV3jVvrIfXbtEkoYIqRq3mA3n5-o145dN5U_33WzQw62a1gIHdpnfh2uS79nGqCnErU0V9GAaGllYa_HKqFmwNxsqGa0Qvr73aanhIAV7OMZzrPCqLLlfSBJbdZr-91giuHqOSxxrd_yiVNZHwVF0vJpAotkZCexc55KwRMXB9ZhBUiv8tHT2VAy-ScH4PQRO54TFLiDT4bfYGOzyqy2mVNw1jGFCAYK2trfpAwyPeCHJK3tVXmuE33ZGzfh-SPQB7YR8g"
+  },
+  {
+    "id": "cat-electrical",
+    "name": "Electrical",
+    "slug": "electrical",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAx_dqoLVnKYhclHiOoXW95P2krUvRbGPmF5sH-ZTavYKRAR-TNQzHrP1mBddveW8cPH43zBXrhjgOjj94mGl7wn2CjyRAhaZ7bgoTlin16NWulOD5HpgYpB9OioSNeNRgO4wBokH9XJ-WxtKPH3AYNpT8J_yTSOkvMNDwnQVOKKK2Yp0D0fbQs88VIJJPmBa6lKwAJMJhvt7OrhYkHNirp5rNszmW_7TseqthNR3Hbx_OkX-_lBQz7uGaGvn2BZl8NqJT5Xzc6xao"
+  },
+  {
+    "id": "cat-carpentry",
+    "name": "Carpentry",
+    "slug": "carpentry",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDi6hpxz7G9lDT28Dr0L2c4uz80DUhnqyJnFT0H905Hx5wpgex6p9AKf4Sq-zONUAkjD9rinAiEfhgs5Rd1UQKbY0AkGZtH9zx8HEs3TcVg6y8EzR-oXTkiBtgbk8u_GzUoJvdylJoxT_X_I_lLr8lz5-feQza7R5ZrO93OHho1fIcVif5jDJ1BodBX2Rhrghm1v-8Pjw1oRX8L2Yv5pPV770uTksv2d9z6f1qHnO0aWAaE-VJBJsRtE6Z5fgpynShBOcu8_mr1ZqU"
+  },
+  {
+    "id": "cat-welding",
+    "name": "Welding",
+    "slug": "welding",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=400&h=400&fit=crop"
+  },
+  {
+    "id": "cat-masonry",
+    "name": "Masonry",
+    "slug": "masonry",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=400&h=400&fit=crop"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "app-001",
+    "listingId": "lst-001",
+    "applicantId": "usr-001",
+    "applicantName": "Ama Osei",
+    "statement": "I am passionate about electrical work and have completed basic wiring courses. I am eager to learn from a master electrician.",
+    "status": "under_review",
+    "createdAt": "2024-11-15T10:00:00Z",
+    "updatedAt": "2024-11-18T14:30:00Z"
+  },
+  {
+    "id": "app-002",
+    "listingId": "lst-001",
+    "applicantId": "usr-001",
+    "applicantName": "Kojo Anane",
+    "statement": "Recent SHS graduate looking to start a career in electrical installation. Available immediately.",
+    "status": "submitted",
+    "createdAt": "2026-07-10T09:00:00Z",
+    "updatedAt": "2026-07-10T09:00:00Z"
+  },
+  {
+    "id": "app-003",
+    "listingId": "lst-002",
+    "applicantId": "usr-001",
+    "applicantName": "Ama Osei",
+    "statement": "I love fashion design and want to learn kente-inspired tailoring from a master seamstress.",
+    "status": "submitted",
+    "createdAt": "2026-07-12T11:00:00Z",
+    "updatedAt": "2026-07-12T11:00:00Z"
+  },
+  {
+    "id": "app-004",
+    "listingId": "lst-003",
+    "applicantId": "usr-001",
+    "applicantName": "Efua Mensah",
+    "statement": "Interested in carpentry apprenticeship. I have basic woodworking experience from school projects.",
+    "status": "submitted",
+    "createdAt": "2026-07-15T14:00:00Z",
+    "updatedAt": "2026-07-15T14:00:00Z"
+  }
+]

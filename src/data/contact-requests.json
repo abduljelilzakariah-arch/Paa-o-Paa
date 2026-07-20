@@ -1,0 +1,5 @@
+[
+  { "id": "cr-001", "artisanId": "art-001", "userId": "usr-001", "channel": "phone", "createdAt": "2026-07-18T11:00:00Z" },
+  { "id": "cr-002", "artisanId": "art-001", "userId": "usr-001", "channel": "whatsapp", "createdAt": "2026-07-19T15:00:00Z" },
+  { "id": "cr-003", "artisanId": "art-001", "userId": null, "channel": "phone", "createdAt": "2026-07-20T07:30:00Z" }
+]
